@@ -34,7 +34,7 @@ import Control.Arrow
 import Control.Monad
 import Control.Monad.Cont
 import Control.Monad.Identity
-import Control.Monad.Instances
+-- import Control.Monad.Instances
 import Control.Monad.Reader
 import Control.Monad.ST.Safe
 import Control.Monad.State
