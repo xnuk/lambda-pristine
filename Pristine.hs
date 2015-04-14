@@ -16,6 +16,7 @@
 {-# LANGUAGE LiberalTypeSynonyms #-}
 {-# LANGUAGE MagicHash #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
+{-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE PackageImports #-}
 {-# LANGUAGE ParallelListComp #-}
 {-# LANGUAGE PatternGuards #-}
